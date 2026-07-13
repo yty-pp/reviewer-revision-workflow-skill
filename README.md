@@ -34,6 +34,3 @@ Chinese manuscript: 中文稿_最新版.docx. Reviewer 2 commented: [paste comme
 I plan to add [your planned revision]. Please prepare the manuscript edits and response letter.
 ```
 
-## 发布前
-
-发布到 GitHub 前，建议补充合适的开源许可证，并在真实审稿意见上试用一次，确认默认文件映射、图表引用和 `Reviewing memory.md` 的格式符合你的习惯。
