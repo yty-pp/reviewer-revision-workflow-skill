@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reviewer Revision Workflow"
+  short_description: "Revise manuscripts and answer reviewers"
+  default_prompt: "Use $reviewer-revision-workflow to revise my manuscript and draft a bilingual response to this reviewer comment."
